@@ -1,0 +1,19 @@
+* {
+    font-weight: normal;
+    margin: 0 0 0 0;
+}
+
+#hero_page {
+    background-image: url('./assets/images/background_images/bg0.png');
+    height: 45em
+}
+
+#resume_site {
+    background-image: url('./assets/images/background_images/bg5.jpg'); 
+    height: 45em;
+}
+
+#trading_records_site {
+    background-image: url('./assets/images/background_images/bg3.png'); 
+    height: 45em;
+}
