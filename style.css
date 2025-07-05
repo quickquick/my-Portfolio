@@ -24,14 +24,14 @@
     color: #ECDFCC;
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-top: 2em;
+    padding-top: 1em;
     text-align: center;
 }
 
 #hero_page p {
     /* border: 2px solid red; */
     padding-top: 3%;
-    padding-left: 35%;
+    padding-left: 20em;
 }
 
 #hero_page p img {
