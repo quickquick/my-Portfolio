@@ -42,9 +42,9 @@
 #resume_site {
     /* background-image: url('./assets/images/background_images/bg5.jpg');  */
     background-color: white;
-    border: 2px solid purple;
+    /* border: 2px solid purple; */
     height: 45em;
-    font-size: 100%;
+    font-size: 1em;
 }
 
 #resume_site section {
@@ -63,7 +63,7 @@
 }
 
 #resume_site section p {
-    font-size: 300%;
+    font-size: 5em;
     padding-top: 50px;
     text-transform: uppercase;
 }
