@@ -40,8 +40,14 @@
 }
 
 #resume_site {
-    background-image: url('./assets/images/background_images/bg5.jpg'); 
+    /* background-image: url('./assets/images/background_images/bg5.jpg');  */
+    background-color: white;
     height: 45em;
+}
+
+.resume_site_section {
+    /* border: 2px solid yellow; */
+    padding-top: 120px;
 }
 
 #trading_records_site {
