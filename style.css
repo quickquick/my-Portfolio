@@ -42,12 +42,30 @@
 #resume_site {
     /* background-image: url('./assets/images/background_images/bg5.jpg');  */
     background-color: white;
-    height: 10%;
+    border: 2px solid purple;
+    height: 45em;
+    font-size: 100%;
 }
 
-.resume_site_section {
-    /* border: 2px solid yellow; */
-    padding-top: 120px;
+#resume_site section {
+    border: 2px solid white;
+    font-family: "Bitcount Grid Double", system-ui; 
+    margin-top: 160px;
+    margin-left: 23.5%;
+    width: 50%;
+    text-align: center;
+}
+
+#resume_site section img {
+    border: 5px solid black;
+    border-radius: 1em;
+    width: 100%;
+}
+
+#resume_site section p {
+    font-size: 300%;
+    padding-top: 50px;
+    text-transform: uppercase;
 }
 
 #trading_records_site {
